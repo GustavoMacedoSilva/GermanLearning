@@ -18,3 +18,12 @@
 | Order               | Or        |                        |                         |
 | Wasser              | Water     |                        |                         |
 | Hallo               | Hello     |                        |                         |
+
+<h3>Phrases</h3>
+
+Ja, du bist meine Tochter  -> Yes, you are my Daughter
+Ja, du bist mein Sohn -> Yes, you are my Son
+Vater -> Father
+Mutter -> Mother
+Ich -> I
+Frau -> Wife
